@@ -1,0 +1,33 @@
+{
+    "name": "react-ts-tutorial",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "dev": "webpack-dev-server --hot"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/LeeHyungi0622/react-ts-tutorial.git"
+    },
+    "author": "Lee Hyungi",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/LeeHyungi0622/react-ts-tutorial/issues"
+    },
+    "homepage": "https://github.com/LeeHyungi0622/react-ts-tutorial#readme",
+    "dependencies": {
+        "@types/react": "^17.0.3",
+        "@types/react-dom": "^17.0.3",
+        "react": "^17.0.2",
+        "react-dom": "^17.0.2",
+        "react-hot-loader": "^4.13.0",
+        "typescript": "^4.2.4"
+    },
+    "devDependencies": {
+        "awesome-typescript-loader": "^5.2.1",
+        "webpack": "^5.35.1",
+        "webpack-cli": "^4.6.0",
+        "webpack-dev-server": "^3.11.2"
+    }
+}
